@@ -9,5 +9,5 @@ metadata:
 spec:
   clusterSelector:
     matchLabels:
-      name: brisbane-cluster
+      name: cluster1
 

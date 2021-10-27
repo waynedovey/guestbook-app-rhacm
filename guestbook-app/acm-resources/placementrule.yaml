@@ -16,8 +16,6 @@ spec:
     - key: name
       operator: In
       values:
-      - brisbane-cluster
-      - sydney-cluster
-      - melbourne-cluster
-#      - bm-cluster
-
+      - cluster1
+      - cluster2
+      - cluster3
