@@ -9,5 +9,5 @@ metadata:
 spec:
   clusterSelector:
     matchLabels:
-      name: cluster1
+      name: aws-cluster-shared-0
 

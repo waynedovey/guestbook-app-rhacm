@@ -16,6 +16,6 @@ spec:
     - key: name
       operator: In
       values:
-      - cluster1
-      - cluster2
-      - cluster3
+      - aws-cluster-shared-0
+      - aws-cluster-shared-1	
+      #- azure-rhacm-cluster-05

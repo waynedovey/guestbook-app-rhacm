@@ -12,4 +12,4 @@ spec:
     - key: name
       operator: In
       values:
-      - cluster2
+      - aws-cluster-shared-1
