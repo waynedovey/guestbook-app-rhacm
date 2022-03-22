@@ -8,7 +8,10 @@ metadata:
     app: redis-master-app
 spec:
   clusterSelector:
-    matchLabels:
-      #name: cluster1
-      name: public1
+    matchExpressions:
+    - key: name
+      operator: In
+      values:
+      - public1
+      - public2
 

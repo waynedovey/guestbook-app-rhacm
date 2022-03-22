@@ -12,7 +12,5 @@ spec:
     - key: name
       operator: In
       values:
-      #- cluster2
-      #- cluster3
       - public1
       - public2
