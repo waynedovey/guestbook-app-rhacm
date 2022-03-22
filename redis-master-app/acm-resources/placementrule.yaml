@@ -9,5 +9,6 @@ metadata:
 spec:
   clusterSelector:
     matchLabels:
-      name: cluster1
+      #name: cluster1
+      name: public1
 
