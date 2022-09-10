@@ -16,5 +16,5 @@ spec:
     - key: name
       operator: In
       values:
-      - public1
-      - public2
+      - sydney-cluster
+      - singapore-cluster
